@@ -5,7 +5,7 @@ What BitNode should I do?
 
 After destroying their first :ref:`BitNode <gameplay_bitnodes>`, many players
 wonder which BitNode they should tackle next. This guide hopefully helps answer
-that question.
+that question. Do not assume that the numerical order of the BitNodes is relevant to the order you should do them in. Doing them in numerical order is probably not a good idea.
 
 Overview of each BitNode
 ------------------------
@@ -483,6 +483,7 @@ For a Challenge
 ^^^^^^^^^^^^^^^
 In general, the higher BitNodes are more difficult than the lower ones.
 **BitNode-12: The Recursion** is an obvious exception as it gets progressively harder.
+A less obvious exception is **BitNode-2: Rise of the Underworld**, which has a much higher exit requirement.  
 
 **BitNode-8: Ghost of Wall Street** provides a unique challenge as the only method
 of earning money in that BitNode is through trading at the stock market.
